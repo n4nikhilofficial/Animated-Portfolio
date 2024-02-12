@@ -173,7 +173,7 @@ font-size: 1em;
 
 .skills{
 text-align: center;
-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
 
 }
 
@@ -204,7 +204,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     height:10em;
     width:10em;
     border-radius:20px;
-    font-family:cursive;
+
 }
 
 .card:hover{
@@ -219,7 +219,7 @@ img{
 
 .projects{
 text-align: center;
-font-family: cursive;
+
 }
 .project-container{
     height: 350px;
@@ -246,7 +246,7 @@ font-family: cursive;
 }
 
 .p1{
-    font-family: cursive;
+  
     height:320px;
     width: 25%;
     border: 1px black solid;
@@ -269,7 +269,7 @@ span a{
     border: 1px solid black;
     color: black;
     padding: 5px;
-    font-family: cursive;
+  
     border-radius:5px;
   
 }
@@ -288,7 +288,7 @@ span a:hover{
     height: 150px;
     width: 100%;
     /* background-color: yellow; */
-    font-family: cursive;
+ 
     text-align: center;   
 }
 
@@ -304,8 +304,7 @@ svg:hover{
 
 .hire-me{
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
-    
+     
 }
 
 button{
@@ -316,7 +315,7 @@ button{
     margin-top:40px ;
     font-weight: bolder;
     border-radius:10px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
 }
 
 button:hover{
@@ -334,7 +333,7 @@ button:hover{
     height: 100px;
     width: auto;
     /* background-color:whitesmoke ; */
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
 }
 
 
@@ -366,7 +365,7 @@ button:hover{
         height:7em;
         width:7em;
         border-radius:20px;
-        font-family:cursive;
+    
     }
     
   
@@ -378,7 +377,7 @@ button:hover{
 
     .projects{
         text-align: center;
-        font-family: cursive;
+     
         
         }
         .project-container{
@@ -395,7 +394,7 @@ button:hover{
         }
 
         .p1{
-            font-family: cursive;
+         
             height:55%;
             width: 100%;
             border: 1px black solid;
@@ -423,7 +422,7 @@ button:hover{
             height: 1em;
             width: 1em;
             padding: 0px;
-            font-family: cursive;
+           
             border-radius:5px;
             
         }     
