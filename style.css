@@ -346,7 +346,7 @@ button:hover{
 
 
     h2{
-        font-size: 2em;
+        font-size: 1.5em;
         -webkit-text-stroke: 0.5px black;
     }
 
@@ -370,7 +370,6 @@ button:hover{
     }
 
     .griditems{
-    
         margin-left:20%;
         margin-bottom:10px; 
         justify-content: space-between;
@@ -406,14 +405,14 @@ button:hover{
 
     .projects{
         text-align: center;
+    }
        
-        
-        }
         .project-container{
-            height: 60%;
+            height: 90%;
             width:100%;
             /* border:2px solid black; */
             display: flex; 
+            flex-direction: column;
             font-size: small;
             justify-content:space-evenly;
             align-items: center;
@@ -424,7 +423,7 @@ button:hover{
 
         .p1{
            
-            height:55%;
+            height:100%;
             width: 100%;
             border: 1px black solid;
             border-radius:20px;
@@ -448,18 +447,18 @@ button:hover{
         span a{
             border: 1px solid black;
             color: black;
-            height: 0.5em;
-            width: 0.5em;
-          
-            margin-left:15px;
-            padding:1px;
-            
-            border-radius:5px;
-            
+            height: 1.5em;
+            display:inline-block;
+            width: 10em;
+            margin-bottom: 10px;
+            font-size: 10px;
+            padding:5px;
+            border-radius:5px; 
         }     
         
         .foot{
-            margin-top:1em;
+            margin-top:0.1em;
+
         }
 
        
