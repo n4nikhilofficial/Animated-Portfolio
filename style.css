@@ -308,6 +308,14 @@ svg:hover{
     text-align: center;   
 }
 
+input{
+border: 1px black solid;
+border-radius: 5px;
+}
+input:hover{
+border-radius:1px yellow solid;
+}
+
 button{
     background-color: yellow;
     color: #6733e2;
@@ -339,6 +347,10 @@ button:hover{
 
 /*MEDIA QUERY*/
 @media (max-width:705px){
+
+    .navbar{
+        justify-content: center;
+    }
 
     .navitems{
         display: none;
@@ -482,4 +494,3 @@ button:hover{
     
 
 }
-
